@@ -1,0 +1,10 @@
+.home{
+  background-image: url('../fonts/background1.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+body{
+  font-family: sans-serif;
+}
